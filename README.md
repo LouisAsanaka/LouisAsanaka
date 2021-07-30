@@ -30,7 +30,7 @@ My experience in programming mostly comes from games (running Minecraft servers)
 <br>
 
 [![Stats Card](<https://github-readme-stats.vercel.app/api?username=louisasanaka&show_icons=true&theme=vue-dark&layout=compact&hide_rank=true&include_all_commits=true&count_private=true&custom_title=My GitHub Stats>)][github]
-[![Languages Card](<https://github-readme-stats.vercel.app/api/top-langs/?username=louisasanaka&theme=vue-dark&layout=compact>)][github repos]
+[![Languages Card](<https://github-readme-stats.vercel.app/api/top-langs/?username=louisasanaka&theme=vue-dark&layout=compact&custom_title=Top Languages by lines of code>)][github repos]
 
 [![Visits Badge](https://badges.pufler.dev/visits/louisasanaka/louisasanaka)](https://badges.pufler.dev)
 
