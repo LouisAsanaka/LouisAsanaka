@@ -1,10 +1,8 @@
-## Hi, I'm Louis (Lou-ee,  not Lou-iss) :wave:
+## Hi, I'm Louis (Lou-ee, not Lou-iss) :wave:
 
 [<img align="left" alt="GitHub" width="25px" src="github.svg" />][github]
 [<img align="left" alt="LinkedIn" width="25px" src="linkedin.svg" />][linkedin]
-[<img align="left" alt="Telegram" width="25px" src="telegram.svg" />][telegram]
 [<img align="left" alt="Email" width="25px" src="gmail.svg" />][email]
-[<img align="left" alt="Reddit" width="25px" src="reddit.svg" />][reddit]
 <br>
 
 ### I'm currently a student studying CS @ University of Illinois Urbana-Champaign!
