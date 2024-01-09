@@ -6,15 +6,13 @@
 <br>
 
 ### I'm currently a student studying CS @ University of Illinois Urbana-Champaign!
-My experience in programming mostly comes from games (running Minecraft servers) & robotics (Lego, [VEX][vex] & [FRC][frc]).
+My experience in programming comes from personal projects, robotics (Lego, [VEX][vex] & [FRC][frc]), and cybersecurity.
 
 ### Technologies I've worked with:
-![Java][java]
 ![C++][cpp]
 ![Python][python]
 ![JS][js]
-![PHP][php]
-![Swift][swift]
+![Java][java]
 
 ### Projects that I've worked on:
 |Project|Description|Technologies|
@@ -49,6 +47,4 @@ My experience in programming mostly comes from games (running Minecraft servers)
 [github]: https://github.com/LouisAsanaka
 [github repos]: https://github.com/LouisAsanaka?tab=repositories
 [linkedin]: https://www.linkedin.com/in/asanaka
-[telegram]: https://t.me/louis_and_a
 [email]: mailto:louisa4mail@gmail.com
-[reddit]: https://reddit.com/u/LouisIsNotLewis
